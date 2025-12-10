@@ -1,0 +1,16 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment folders
+venv/
+.venv/
+env/
+
+# Operating system junk files
+.DS_Store
+Thumbs.db
+
+# Specific files you don't want to push (e.g., config, database)
+config.ini
+database.sqlite
